@@ -1,0 +1,9 @@
+.frame{
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    margin: 0 auto;
+    border: 4px black solid ;
+    border-radius: 3%;
+    padding: 6px;
+}
